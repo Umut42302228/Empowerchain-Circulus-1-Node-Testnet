@@ -6,7 +6,7 @@ Topluluk [Empower Discord](https://discord.gg/uxD8n5gK)
 <h1 align="center"> Donanım </h1>
 
 ```sh
-# Dökümasyonda yazan
+# Sistem gereksinimleri ;
 4 CPU
 8 RAM
 200 SSD
