@@ -1,6 +1,6 @@
 ﻿<h1 align="center"> Empower Chain Güncelleme</h1>
 
-```sh
+```
 cd || return
 git clone https://github.com/EmpowerPlastic/empowerchain
 cd empowerchain/chain || return
